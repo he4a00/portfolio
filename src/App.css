@@ -1,0 +1,7 @@
+.App {
+  height: 100vh;
+  background: url("images/projects.jpeg") no-repeat;
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+}
