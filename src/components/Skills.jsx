@@ -9,8 +9,7 @@ const Skills = () => {
   return (
     <Box
       sx={{
-        width: "100%",
-        margin: "auto",
+        
         paddingTop: "100px",
         paddingBottom: "100px",
         display: "flex",
