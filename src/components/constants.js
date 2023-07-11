@@ -162,4 +162,21 @@ export const projects = [
       "https://media.discordapp.net/attachments/1098895428772184144/1120115717929455656/Screenshot_102.png?width=1245&height=676",
     id: 5,
   },
+  {
+    projTitle: "Educational-Platform [Englishy]",
+    desc: "Welcome to our online shopping website, your one-stop destination for fresh and delicious fruits and a wide range of quality food products. We understand the importance of healthy eating and believe that the key to a balanced lifestyle begins with the right ingredients.",
+    tags: [
+      "Next 13",
+      "MongoDB",
+      "TypeScript",
+      "Prisma",
+      "Tailwind",
+      "Full-Stack Application",
+    ],
+    source: "https://github.com/he4a00/educational-platform",
+    visit: "https://englishy.vercel.app/",
+    image:
+      "https://cdn.discordapp.com/attachments/1098895428772184144/1128336597281145004/image.png",
+    id: 6,
+  },
 ];
